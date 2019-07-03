@@ -2,11 +2,22 @@
 title: "Welcome to SNHUSBC"
 date: 2019-07-02T13:02:00-04:00
 draft: false
-image: "snhusbc.jpg"
+image: "news.jpg"
 ---
 # Format of a New Post
 ## This is to show the format of a new post.
-### There are a lot of different font sizes that can be used.
-#### Which makes this feature versatile.
-##### You can even add hyperlinks.
-###### And fine print if you want.
+#### <a href="http://www.google.com">You can add hyperlinks</a>
+       
+| Tables    |Are       |useful   |
+|-----------|:--------:|--------:|
+|name 1     |position 1|term 1   |
+|name 2     |position 2|term 2   |
+|name 3     |position 3|term 3   |
+
+1. Lists help too
+2. They can be numbered
+  * Or bulleted
+1. and continued to be numbered
+  1. and numbered sub-lists
+  3. work also
+4. . so many options
