@@ -1,4 +1,4 @@
-baseURL         = ""
+baseURL         = "https://inspiring-babbage-1f1f32.netlify.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -45,7 +45,7 @@ cover       = "pins.jpg"
 
 [[menu.main]]
   name = "Tournaments"
-  url = "/categories/tournaments/"
+  url = "/categories/tournament/"
   weight = 100
 
 [[menu.main]]
