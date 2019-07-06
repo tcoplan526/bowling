@@ -2,7 +2,7 @@
 title: "News"
 date: 2019-07-02T12:38:57-04:00
 draft: false
-image: "brick.jpg"
+image: "news.jpg"
 categories: [news]
 ---
 
