@@ -7,11 +7,11 @@ public: "/static"
 
 collections:
   -name: "bowling"
-   label: "SNHUSBC"
-   folder: "bowling/content/post/news"
-   create: true
-   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-   fields:
+  label: "SNHUSBC"
+  folder: "bowling/content/post/news"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
