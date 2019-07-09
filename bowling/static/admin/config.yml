@@ -6,7 +6,7 @@ backend:
   public: "uploads"
 
   media_library:
-  name: bowling
+  name: bowling_media
   config:
     publicKey: bowling
 
