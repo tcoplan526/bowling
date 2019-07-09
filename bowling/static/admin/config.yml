@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: cms-test
+  branch: master
 media_folder: "bowling/static"
 public: "/static"
 
