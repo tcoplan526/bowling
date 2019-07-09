@@ -24,8 +24,8 @@ collections:
     - {label: Sharing, name: share, widget: boolean, default: true}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
-  name: "tournaments"
-  label: "SNHUSBC"
+  -name: "tournaments"
+  label: "SNH_USBC"
   folder: "bowling/content/post/tournaments"
   create: true
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
