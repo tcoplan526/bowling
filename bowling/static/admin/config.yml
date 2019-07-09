@@ -24,3 +24,21 @@ collections:
     - {label: Sharing, name: share, widget: boolean, default: true}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
+  -name: "tournaments"
+  label: "SNHUSBC"
+  folder: "bowling/content/post/tournaments"
+  create: true
+  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "date"}
+    - {label: "Draft", name: "draft", widget: "boolean", default: true}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "Podcast"}
+    - {label: "Tags", name: "tags", widget: "list", required: false}
+    - {label: Author, name: author, widget: hidden, default: SNHUSBC}
+    - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
+    - {label: "Header Image", name: image, widget: image, required: false}
+    - {label: Commenting, name: comments, widget: boolean, default: true}
+    - {label: Sharing, name: share, widget: boolean, default: true}
+    - {label: Type, name: type, widget: hidden, default: "post"}
+    - {label: "Body", name: "body", widget: "markdown"}
