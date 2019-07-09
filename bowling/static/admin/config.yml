@@ -5,10 +5,6 @@ backend:
   media_folder: "bowling/static"
   public: "uploads"
 
-  media_library:
-  name: bowling_media
-  config:
-    publicKey: bowling
 
   collections:
     -name: "bowling"
