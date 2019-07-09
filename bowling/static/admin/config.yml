@@ -6,8 +6,8 @@ public: "/static"
 
 
 collections:
-  -name: "bowling"
-  label: "SNHUSBC"
+  - name: "news"
+  label: "News"
   folder: "bowling/content/post/news"
   create: true
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -24,9 +24,9 @@ collections:
     - {label: Sharing, name: share, widget: boolean, default: true}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
-    
-  -name: "tournaments"
-  label: "SNH_USBC"
+
+  - name: "tournaments"
+  label: "Tournaments"
   folder: "bowling/content/post/tournaments"
   create: true
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
