@@ -7,11 +7,11 @@ public: "/static"
 
 collections:
   - name: "news"
-  label: "News"
-  folder: "bowling/content/post/news"
-  create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-  fields:
+    label: "News"
+    folder: "bowling/content/post/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
@@ -26,11 +26,11 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "tournaments"
-  label: "Tournaments"
-  folder: "bowling/content/post/tournaments"
-  create: true
-  slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-  fields:
+    label: "Tournaments"
+    folder: "bowling/content/post/tournaments"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
