@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: ""
-public: "/"
+media_folder: "bowling/static/uploads/"
+public: "/bowling/static/uploads/"
 
 
 collections:
@@ -15,7 +15,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "news"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "[news]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, required: false}
@@ -33,7 +33,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "tournaments"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "[tournament]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, required: false}
@@ -51,7 +51,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "honor_scores"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "[honor]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, required: false}
@@ -69,7 +69,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: true}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "bylaws"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "[bylaws]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, required: false}
