@@ -42,7 +42,7 @@ collections:
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
-    - name: "honor_scores"
+  - name: "honor_scores"
     label: "Honor Scores"
     folder: "bowling/content/post/honor_scores"
     create: true
@@ -60,7 +60,7 @@ collections:
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
-    - name: "bylaws"
+  - name: "bylaws"
     label: "Bylaws"
     folder: "bowling/content/post/bylaws"
     create: true
