@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: "bowling/static/"
-public: "/static/"
+media_folder: ""
+public: ""
 
 
 collections:
