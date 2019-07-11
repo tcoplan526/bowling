@@ -14,11 +14,11 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
-    - {label: "Draft", name: "draft", widget: "boolean", default: true}
+    - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[news]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: image, required: false}
+    - {label: "Header Image", name: image, widget: hidden, default: "bowling/static/news.jpg"}
     - {label: Commenting, name: comments, widget: boolean, default: true}
     - {label: Sharing, name: share, widget: boolean, default: true}
     - {label: Type, name: type, widget: hidden, default: "post"}
@@ -32,13 +32,13 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
-    - {label: "Draft", name: "draft", widget: "boolean", default: true}
+    - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[tournament]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: image, required: false}
-    - {label: Commenting, name: comments, widget: boolean, default: true}
-    - {label: Sharing, name: share, widget: boolean, default: true}
+    - {label: "Header Image", name: image, widget: hidden, default: "tournament.jpg"}
+    - {label: Commenting, name: comments, widget: boolean, default: false}
+    - {label: Sharing, name: share, widget: boolean, default: false}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
@@ -50,13 +50,13 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
-    - {label: "Draft", name: "draft", widget: "boolean", default: true}
+    - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[honor]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: image, required: false}
-    - {label: Commenting, name: comments, widget: boolean, default: true}
-    - {label: Sharing, name: share, widget: boolean, default: true}
+    - {label: "Header Image", name: image, widget: hidden, default: "bowling/static/fireworks.jpg"}
+    - {label: Commenting, name: comments, widget: boolean, default: false}
+    - {label: Sharing, name: share, widget: boolean, default: false}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
@@ -68,12 +68,12 @@ collections:
     fields:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
-    - {label: "Draft", name: "draft", widget: "boolean", default: true}
+    - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[bylaws]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: image, required: false}
-    - {label: Commenting, name: comments, widget: boolean, default: true}
-    - {label: Sharing, name: share, widget: boolean, default: true}
+    - {label: "Header Image", name: image, widget: hidden, default: "bowling/static/flag.jpg"}
+    - {label: Commenting, name: comments, widget: boolean, default: false}
+    - {label: Sharing, name: share, widget: boolean, default: false}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
