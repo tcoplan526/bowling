@@ -149,5 +149,8 @@ title = "Tournament Registraion"
     <textarea id="contact" name="contact" placeholder="Please leave your email address or phone number and preferred contact method (text, call, etc.) so we can confirm your registration." style="height: 300px" style="width:500px"></textarea>
     <br>
     <br>
+    <div data-netlify-recaptcha="true"></div>
+    <br>
+    <br>
     <input type="submit" value="Submit" style="">
 </form>
