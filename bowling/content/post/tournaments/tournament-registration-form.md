@@ -6,4 +6,4 @@ Image: "tournament.jpg"
 categories: [tournament]
 ---
 
-#### <a href="http://inspiring-babbage-1f1f32.netlify.com/contact/">post our registration form</a>
+#### <a href="http://inspiring-babbage-1f1f32.netlify.com/registration_form/">post our registration form</a>
