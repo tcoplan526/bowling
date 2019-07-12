@@ -3,7 +3,7 @@ date = "2019"
 title = "Tournament Registraion"
 +++
 
-<form method="post" name="Tournament Registration">
+<form method="post" name="Tournament Registration" netlify>
     Team Event
     <br>
     <br>
