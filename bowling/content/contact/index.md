@@ -13,7 +13,7 @@ title = "Tournament Registraion"
     <br>
     <br>
     Squad Time     
-    <select name="Squad">
+    <select name="Team_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -45,7 +45,7 @@ title = "Tournament Registraion"
     <br>
     <br>
     Squad Time
-    <select name="Squad">
+    <select name="Doubles_1_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -53,12 +53,12 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="doubles1">First Bowler</label>
+    <label for="doubles1">Doubles 1 First Bowler</label>
     <br>
     <input type="text" id="doubles1" name="doublesfirstbowler" placeholder="First Bowler">
     <br>
     <br>
-    <label for="doubles2">Second Bowler</label>
+    <label for="doubles2">Doubles 1 Second Bowler</label>
     <br>
     <input type="text" id="doubles2" name="doublessecondbowler" placeholder="Second Bowler">
     <br>
@@ -67,7 +67,7 @@ title = "Tournament Registraion"
     <br>
     <br>
     Squad Time
-    <select name="Squad">
+    <select name="Doubles_2_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -75,12 +75,12 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="doubles3">First Bowler</label>
+    <label for="doubles3">Doubles 2 First Bowler</label>
     <br>
     <input type="text" id="doubles3" name="doublesthirdbowler" placeholder="First Bowler">
     <br>
     <br>
-    <label for="doubles4">Second Bowler</label>
+    <label for="doubles4">Doubles 2 Second Bowler</label>
     <br>
     <input type="text" id="doubles4" name="doublesfourthbowler" placeholder="Second Bowler">
     <br>
@@ -89,7 +89,7 @@ title = "Tournament Registraion"
     <br>
     <br>
     First Bowler Squad Time
-    <select name="Squad">
+    <select name="Singles_1_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -97,13 +97,13 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="singles1">First Bowler</label>
+    <label for="singles1">Singles First Bowler</label>
     <br>
     <input type="text" id="singles1" name="singlesfirstbowler" placeholder="First Bowler">
     <br>
     <br>
    Second Bowler Squad Time
-    <select name="Squad">
+    <select name="Singles_2_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -111,13 +111,13 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="singles2">Second Bowler</label>
+    <label for="singles2">Singles Second Bowler</label>
     <br>
     <input type="text" id="singles2" name="singlessecondbowler" placeholder="Second Bowler">
     <br>
     <br>
    Third Bowler Squad Time
-    <select name="Squad">
+    <select name="Singles_3_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -125,13 +125,13 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="singles3">Third Bowler</label>
+    <label for="singles3">Singles Third Bowler</label>
     <br>
     <input type="text" id="singles3" name="singlesthirdbowler" placeholder="Third Bowler">
     <br>
     <br>
     Fourth Bowler Squad Time
-    <select name="Squad">
+    <select name="Singles_4_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -139,7 +139,7 @@ title = "Tournament Registraion"
     </select>
     <br>
     <br>
-    <label for="singles4">Fourth Bowler</label>
+    <label for="singles4">Singles Fourth Bowler</label>
     <br>
     <input type="text" id="singles4" name="singlesfourthbowler" placeholder="Fourth Bowler">
     <br>
