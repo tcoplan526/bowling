@@ -1,6 +1,6 @@
 ---
 title: "Tournament Registration Form"
-date: 3018-07-02T12:49:31-04:00
+date: 2019-07-12T18:41:31-04:00
 draft: false
 Image: "tournament.jpg"
 categories: [tournament]
