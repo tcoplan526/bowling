@@ -1,9 +1,12 @@
 +++
 date = "2019"
-title = "Tournament Registraion"
+title = "2019 Tournament Registraion"
 +++
 
-<form method="post" name="Tournament Registration" data-netlify-recaptcha="true" data-netlify="true" netlify>
+<form action="/thankyou" method="post" name="2019 Tournament Registration" data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="bot_field" netlify>
+    <p style="visibility: hidden">
+        <label> Don't fill this out"</label> <input name=bot_field>
+        </p>
     Team Event
     <br>
     <br>
