@@ -3,7 +3,7 @@ date = "2019"
 title = "Tournament Registraion"
 +++
 
-<form method="post" name="Tournament Registration" netlify>
+<form method="post" name="Tournament Registration" data-netlify-recaptcha="true" data-netlify="true" netlify>
     Team Event
     <br>
     <br>
