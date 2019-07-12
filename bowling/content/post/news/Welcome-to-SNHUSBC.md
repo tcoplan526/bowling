@@ -1,6 +1,6 @@
 ---
 title: "Welcome to SNHUSBC"
-date: 2019-07-04T13:02:00-04:00
+date: 3019-07-04T13:02:00-04:00
 draft: false
 image: "news.jpg"
 ---
