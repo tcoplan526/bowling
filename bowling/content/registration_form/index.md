@@ -2,7 +2,7 @@
 <html>
 <style>
 input[type=text], select {
-  width: 100%;
+  width: 20;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
@@ -12,10 +12,11 @@ input[type=text], select {
 }
 
 input[type=submit] {
-  width: 100%;
+  width: 300px;
+  height: 100px;
   background-color: #4CAF50;
   color: white;
-  padding: 14px 20px;
+  align-items: center;
   margin: 8px 0;
   border: none;
   border-radius: 4px;
@@ -26,24 +27,32 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-div {
+form {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+textarea {
+  width: 50%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
 </style>
 <body>
 
-+++
-date = "2019"
-title = "2019 Tournament Registraion"
-+++
+<b><font size ="+6">2019 Registration Form</font>
 
 <form action="/thankyou" method="post" name="2019 Tournament Registration" data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="bot_field" netlify>
     <p style="visibility: hidden">
         <label> Don't fill this out"</label> <input name=bot_field>
         </p>
-    Team Event
+    <b><font size="+6">Team Event</font></B>
     <br>
     <br>
     <label for="tname">Team Name</label>
@@ -80,7 +89,7 @@ title = "2019 Tournament Registraion"
     <input type="text" id="bowler4" name="fourthbowler" placeholder="Fourth Bowler">
     <br>
     <br>
-    Doubles Pairing 1
+    <b><font size="+6">Doubles Pairing 1</font></b>
     <br>
     <br>
     Squad Time
@@ -102,7 +111,7 @@ title = "2019 Tournament Registraion"
     <input type="text" id="doubles2" name="doublessecondbowler" placeholder="Second Bowler">
     <br>
     <br>
-    Doubles Pairing 2
+    <b><font size="+6">Doubles Pairing 2</font></b>
     <br>
     <br>
     Squad Time
@@ -124,7 +133,7 @@ title = "2019 Tournament Registraion"
     <input type="text" id="doubles4" name="doublesfourthbowler" placeholder="Second Bowler">
     <br>
     <br>
-    Singles
+    <b><font size="+6">Singles</font></b>
     <br>
     <br>
     First Bowler Squad Time
