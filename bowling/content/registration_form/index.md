@@ -60,7 +60,8 @@ textarea {
     <input type="text" id="tname" name="teamname" placeholder="Your Team Name">
     <br>
     <br>
-    Squad Time     
+    Squad Time
+    <br>     
     <select name="Team_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
@@ -93,6 +94,7 @@ textarea {
     <br>
     <br>
     Squad Time
+    <br>
     <select name="Doubles_1_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
@@ -115,6 +117,7 @@ textarea {
     <br>
     <br>
     Squad Time
+    <br>
     <select name="Doubles_2_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
@@ -136,22 +139,10 @@ textarea {
     <b><font size="+6">Singles</font></b>
     <br>
     <br>
-    First Bowler Squad Time
-    <select name="Singles_1_Squad">
-        <option value="SquadA">Squad A</option>
-        <option value="SquadB">Squad B</option>
-        <option value="SquadC">Squad C</option>
-        <option value="SquadD">Squad D</option>
-    </select>
-    <br>
-    <br>
-    <label for="singles1">Singles First Bowler</label>
+    <label for="singles1">Singles First Bowler</label> 
     <br>
     <input type="text" id="singles1" name="singlesfirstbowler" placeholder="First Bowler">
-    <br>
-    <br>
-   Second Bowler Squad Time
-    <select name="Singles_2_Squad">
+    <select name="Singles_1_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -162,10 +153,7 @@ textarea {
     <label for="singles2">Singles Second Bowler</label>
     <br>
     <input type="text" id="singles2" name="singlessecondbowler" placeholder="Second Bowler">
-    <br>
-    <br>
-   Third Bowler Squad Time
-    <select name="Singles_3_Squad">
+    <select name="Singles_2_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -176,10 +164,7 @@ textarea {
     <label for="singles3">Singles Third Bowler</label>
     <br>
     <input type="text" id="singles3" name="singlesthirdbowler" placeholder="Third Bowler">
-    <br>
-    <br>
-    Fourth Bowler Squad Time
-    <select name="Singles_4_Squad">
+    <select name="Singles_3_Squad">
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -190,6 +175,12 @@ textarea {
     <label for="singles4">Singles Fourth Bowler</label>
     <br>
     <input type="text" id="singles4" name="singlesfourthbowler" placeholder="Fourth Bowler">
+    <select name="Singles_4_Squad">
+        <option value="SquadA">Squad A</option>
+        <option value="SquadB">Squad B</option>
+        <option value="SquadC">Squad C</option>
+        <option value="SquadD">Squad D</option>
+    </select>
     <br>
     <br>
     <label for="contact">Contact Info</label>
