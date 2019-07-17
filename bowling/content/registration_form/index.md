@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <style>
+
 input[type=text], select {
   width: 20;
   padding: 12px 20px;
@@ -43,11 +44,18 @@ textarea {
   background-color: #f8f8f8;
   resize: none;
 }
+
+input[type=checkbox] {
+  height: 30px;
+  width: 30px;
+}
+
+hr {
+  border: 5px solid #ccc;
+}
 </style>
 <body>
-
-<b><font size ="+6">2019 Registration Form</font>
-
+  <b><font size ="+6">2019 Registration Form</font>
 <form action="/thankyou" method="post" name="2019 Tournament Registration" data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="bot_field" netlify>
     <p style="visibility: hidden">
         <label> Don't fill this out"</label> <input name=bot_field>
@@ -63,6 +71,7 @@ textarea {
     Squad Time
     <br>     
     <select name="Team_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -89,6 +98,7 @@ textarea {
     <br>
     <input type="text" id="bowler4" name="fourthbowler" placeholder="Fourth Bowler">
     <br>
+    <hr>
     <br>
     <b><font size="+6">Doubles Pairing 1</font></b>
     <br>
@@ -96,6 +106,7 @@ textarea {
     Squad Time
     <br>
     <select name="Doubles_1_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -112,6 +123,7 @@ textarea {
     <br>
     <input type="text" id="doubles2" name="doublessecondbowler" placeholder="Second Bowler">
     <br>
+    <hr>
     <br>
     <b><font size="+6">Doubles Pairing 2</font></b>
     <br>
@@ -119,6 +131,7 @@ textarea {
     Squad Time
     <br>
     <select name="Doubles_2_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -135,6 +148,7 @@ textarea {
     <br>
     <input type="text" id="doubles4" name="doublesfourthbowler" placeholder="Second Bowler">
     <br>
+    <hr>
     <br>
     <b><font size="+6">Singles</font></b>
     <br>
@@ -143,6 +157,7 @@ textarea {
     <br>
     <input type="text" id="singles1" name="singlesfirstbowler" placeholder="First Bowler">
     <select name="Singles_1_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -154,6 +169,7 @@ textarea {
     <br>
     <input type="text" id="singles2" name="singlessecondbowler" placeholder="Second Bowler">
     <select name="Singles_2_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -165,6 +181,7 @@ textarea {
     <br>
     <input type="text" id="singles3" name="singlesthirdbowler" placeholder="Third Bowler">
     <select name="Singles_3_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
@@ -176,19 +193,22 @@ textarea {
     <br>
     <input type="text" id="singles4" name="singlesfourthbowler" placeholder="Fourth Bowler">
     <select name="Singles_4_Squad">
+        <option value="SquadA">Squad:</option>
         <option value="SquadA">Squad A</option>
         <option value="SquadB">Squad B</option>
         <option value="SquadC">Squad C</option>
         <option value="SquadD">Squad D</option>
     </select>
     <br>
+    <hr>
     <br>
     <label for="contact">Contact Info</label>
     <br>
     <textarea id="contact" name="contact" placeholder="Please leave your email address or phone number and preferred contact method (text, call, etc.) so we can confirm your registration." style="height: 300px" style="width:500px"></textarea>
     <br>
     <br>
-    <div data-netlify-recaptcha="true"></div>
+    <input type="checkbox" required> Check here to submit
+    </label>
     <br>
     <br>
     <input type="submit" value="Submit" style="">
