@@ -34,8 +34,9 @@ collections:
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[tournament]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
-    - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
+    - {label: Author Image, name: authorImage, widget: image, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: hidden, default: "tournament.jpg"}
+    - {label: "Header Image", name: image, widget: string, default: "tournament.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
@@ -51,7 +52,8 @@ collections:
     - {label: "Categories", name: "categories", widget: "hidden", default: "[honor]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: hidden, default: "fireworks.jpg"}
+    - {label: "Header Image", name: image, widget: image, default: "fireworks.jpg"}
+    - {label: "Header Image", name: image, widget: string, default: "fireworks.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
@@ -67,6 +69,23 @@ collections:
     - {label: "Categories", name: "categories", widget: "hidden", default: "[bylaws]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: hidden, default: "flag.jpg"}
+    - {label: "Header Image", name: image, widget: image, default: "flag.jpg"}
+    - {label: "Header Image", name: image, widget: string, default: "flag.jpg"}
+    - {label: Type, name: type, widget: hidden, default: "post"}
+    - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "General"
+    label: "General"
+    folder: "bowling/content/post/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "date"}
+    - {label: "Draft", name: "draft", widget: "boolean", default: false}
+    - {label: Author, name: author, widget: hidden, default: SNHUSBC}
+    - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
+    - {label: "Header Image", name: image, widget: image, default: "news.jpg",}
+    - {label: "Header Image", name: image, widget: string, default: "news.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
