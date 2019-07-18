@@ -18,7 +18,8 @@ collections:
     - {label: "Categories", name: "categories", widget: "hidden", default: "[news]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: image, default: "news.jpg", config: ""}
+    - {label: "Header Image", name: image, widget: image, default: "news.jpg",}
+    - {label: "Header Image", name: image, widget: string, default: "news.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
 
