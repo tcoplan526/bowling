@@ -7,6 +7,6 @@ author: SNHUSBC
 authorImage: bowling/static/snhusbc.jpg
 image: sunflower.jpg
 type: post
-weight: '9'
+weight: 10
 ---
 look at this pretty flower
