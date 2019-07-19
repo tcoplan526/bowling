@@ -4,6 +4,7 @@ date: 2019-07-02T08:53:11-04:00
 draft: false
 image: "fireworks.jpg"
 categories: [honor]
+weight: 9
 ---
 
 ### Way to go Pete for breaking 100!

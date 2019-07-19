@@ -4,5 +4,6 @@ date: 2019-07-02T12:46:08-04:00
 draft: False
 image: "news.jpg"
 categories: [news]
+weight: 9
 ---
 ### Hope your summer was awesome! We'll see you on the lanes.

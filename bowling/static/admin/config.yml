@@ -22,7 +22,8 @@ collections:
     - {label: "Header Image", name: image, widget: string, default: "news.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
-
+    - {label: "Weight", name: "weight", widget: "number", default: "9" min: "3"}
+    
   - name: "tournaments"
     label: "Tournaments"
     folder: "bowling/content/post/tournaments"
@@ -39,6 +40,7 @@ collections:
     - {label: "Header Image", name: image, widget: string, default: "tournament.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Weight", name: "weight", widget: "number", default: "9" min: "3"}
 
   - name: "honor_scores"
     label: "Honor_Scores"
@@ -56,6 +58,7 @@ collections:
     - {label: "Header Image", name: image, widget: string, default: "fireworks.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Weight", name: "weight", widget: "number", default: "9" min: "3"}
 
   - name: "bylaws"
     label: "Bylaws"
@@ -73,6 +76,7 @@ collections:
     - {label: "Header Image", name: image, widget: string, default: "flag.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Weight", name: "weight", widget: "number", default: "9" min: "3"}
 
   - name: "General"
     label: "General"
@@ -89,3 +93,4 @@ collections:
     - {label: "Header Image", name: image, widget: string, default: "news.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Weight", name: "weight", widget: "number", default: "9" min: "3"}

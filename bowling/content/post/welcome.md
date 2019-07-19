@@ -1,8 +1,9 @@
 ---
 title: "Welcome to SNHUSBC"
-date: 2019-07-12T18:42:00-04:00
+date: 2019-06-18T14:26:15.297Z
 draft: false
 image: "news.jpg"
+weight: 1
 ---
 # Format of a New Post
 ## This is to show the format of a new post.
