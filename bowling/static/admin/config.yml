@@ -35,8 +35,8 @@ collections:
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
     - {label: "Categories", name: "categories", widget: "hidden", default: "[tournament]"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
-    - {label: Author Image, name: authorImage, widget: image, default: "bowling/static/snhusbc.jpg"}
-    - {label: "Header Image", name: image, widget: hidden, default: "tournament.jpg"}
+    - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
+    - {label: "Header Image", name: image, widget: image, default: "tournament.jpg"}
     - {label: "Header Image", name: image, widget: string, default: "tournament.jpg"}
     - {label: Type, name: type, widget: hidden, default: "post"}
     - {label: "Body", name: "body", widget: "markdown"}
