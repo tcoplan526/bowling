@@ -45,7 +45,7 @@ cover       = "pins.jpg"
 
 [[menu.main]]
   name = "Tournaments"
-  url = "/categories/tournament/"
+  url = "/categories/tournaments/"
   weight = 100
 
 [[menu.main]]
