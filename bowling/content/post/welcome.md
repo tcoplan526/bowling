@@ -5,20 +5,4 @@ draft: false
 image: "news.jpg"
 weight: 1
 ---
-# Format of a New Post
-## This is to show the format of a new post.
-#### <a href="http://www.google.com">You can add hyperlinks</a>
-       
-| Tables    |Are       |useful   |
-|-----------|:--------:|--------:|
-|name 1     |position 1|term 1   |
-|name 2     |position 2|term 2   |
-|name 3     |position 3|term 3   |
-
-1. Lists help too
-2. They can be numbered
-  * Or bulleted
-1. and continued to be numbered
-  1. and numbered sub-lists
-  3. work also
-4. . so many options
+The Southern New Hampshire USBC Association is organized as a non-profit corporation and is chartered by USBC and subject to its authority. Our purpose is to provide equal opportunity for all in the sport of bowling, promote the game of American Tenpin, conduct and support bowling competitions.

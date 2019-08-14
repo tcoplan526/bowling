@@ -6,7 +6,7 @@ public: "/bowling/static"
 
 
 collections:
-  - name: "news"
+  - name: "News"
     label: "News"
     folder: "bowling/content/post/news"
     create: true
@@ -15,7 +15,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "[news]"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "'News'"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, default: "news.jpg",}
@@ -24,7 +24,7 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Weight", name: "weight", widget: "number", default: "9", min: "3"}
 
-  - name: "tournaments"
+  - name: "Tournaments"
     label: "Tournaments"
     folder: "bowling/content/post/tournaments"
     create: true
@@ -33,7 +33,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "[tournament]"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "'Tournaments'"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, default: "tournament.jpg"}
@@ -51,7 +51,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "[honor]"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "'Scores'"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, default: "fireworks.jpg"}
@@ -60,7 +60,7 @@ collections:
     - {label: "Body", name: "body", widget: "markdown"}
     - {label: "Weight", name: "weight", widget: "number", default: "9", min: "3"}
 
-  - name: "bylaws"
+  - name: "Bylaws"
     label: "Bylaws"
     folder: "bowling/content/post/bylaws"
     create: true
@@ -69,7 +69,7 @@ collections:
     - {label: "Title", name: "title", widget: "string"}
     - {label: "Publish Date", name: "date", widget: "date"}
     - {label: "Draft", name: "draft", widget: "boolean", default: false}
-    - {label: "Categories", name: "categories", widget: "hidden", default: "[bylaws]"}
+    - {label: "Categories", name: "categories", widget: "hidden", default: "'Bylaws'"}
     - {label: Author, name: author, widget: hidden, default: SNHUSBC}
     - {label: Author Image, name: authorImage, widget: hidden, default: "bowling/static/snhusbc.jpg"}
     - {label: "Header Image", name: image, widget: image, default: "flag.jpg"}

@@ -3,7 +3,7 @@ title: "Tournament Registration Form"
 date: 2019-06-12T18:41:31-04:00
 draft: false
 Image: "tournament.jpg"
-categories: [tournament]
+categories: Tournaments
 weight: 2
 ---
 

@@ -55,7 +55,7 @@ cover       = "pins.jpg"
 
 [[menu.main]]
   name = "Honor Scores"
-  url = "/categories/Honor"
+  url = "/categories/scores"
   weight = 95
 
   [[menu.main]]
