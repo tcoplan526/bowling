@@ -1,9 +1,9 @@
 ---
-title: "Bylaws"
-date: 2019-07-01T17:41:27-04:00
+title: Bylaws
+date: 2019-07-01T21:41:27.000Z
 draft: false
-image: "flag.jpg"
-categories: 'Bylaws'
+categories: Bylaws
+image: flag.jpg
 weight: 9
 ---
-Here would be our bylaws
+Coming soon!
