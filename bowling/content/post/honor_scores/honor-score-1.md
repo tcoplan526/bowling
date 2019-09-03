@@ -1,13 +1,13 @@
 ---
-title: "Honor Scores"
-date: 2019-07-02T12:51:49-04:00
+title: Honor Scores
+date: 2019-07-02T16:51:49.000Z
 draft: false
-image: "fireworks.jpg"
-categories: 'Scores'
+categories: Scores
+image: fireworks.jpg
 weight: 9
 ---
 <h1 style="text-align:center;color:#3eb0ef;"> 2019-2020 Honor Scores </h1>
 
-| Name   |  Score     | Date   | League | Bowling Center |
-|:----------:|:--------:|--------:|:-------:|:-------:|
-|Test Bowler    | 300 | 08/14/2019 | Show Me The Money| Yankee Lanes Manchester|
+| Name | Score | Date | League | Bowling Center |
+| ---- | ----- | ---- | ------ | -------------- |
+|      |       |      |        |                |
