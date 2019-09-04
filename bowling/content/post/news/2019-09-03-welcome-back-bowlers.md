@@ -2,7 +2,7 @@
 title: Welcome Back Bowlers!
 date: 2019-09-04T01:49:20.785Z
 draft: false
-categories: '''News'''
+categories: News
 author: SNHUSBC
 authorImage: bowling/static/snhusbc.jpg
 image: news.jpg
