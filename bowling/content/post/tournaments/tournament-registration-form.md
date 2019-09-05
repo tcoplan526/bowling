@@ -7,4 +7,4 @@ image: tournament.jpg
 weight: 3
 ---
 
-#### <a href="http://inspiring-babbage-1f1f32.netlify.com/registration_form/">post our registration form</a>
+#### <a href="http://snhusbc.com/registration_form/">post our registration form</a>
