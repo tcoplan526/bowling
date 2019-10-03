@@ -7,4 +7,4 @@ image: fireworks.jpg
 weight: 9
 ---
 
-Congratulations Eric Daley on a perfect 300 game!
+Congratulations to Eric Daley on a perfect 300 game!
