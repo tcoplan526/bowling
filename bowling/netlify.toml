@@ -1,5 +1,5 @@
 [build]
-publish = "bowling/"
+publish = "bowling/bowling"
 command = "hugo"
 
 [context.production.environment]
