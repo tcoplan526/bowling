@@ -10,4 +10,4 @@ weight: 9
 
 | Name | Score | Date | League | Bowling Center |
 | ---- | ----- | ---- | ------ | -------------- |
-|      |       |      |        |                |
+| Eric Daley | 300 | 10/2/2019 | Show Me the Money| Yankee Lanes Manchester|
