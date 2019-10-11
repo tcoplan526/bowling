@@ -7,7 +7,7 @@ image: tournament.jpg
 weight: 9
 ---
 
-Below are the rules for this years annual tournament.  <a href="index.pdf" target="_blank"><strong>Click Here</strong></a> for a printable registration form. The squad times are as follows:<br>
+Below are the rules for this years annual tournament.  <a href="index.pdf" target="_blank"><strong>Click Here</strong></a> for a printable registration form. Please mail entries with payment to the address at the bottom of the form to reserve your squad time.  The squad times are as follows:<br>
 
 | Date | Squad A | Squad B |
 | ----- | ------ | ------- |
@@ -66,6 +66,6 @@ Below are the rules for this years annual tournament.  <a href="index.pdf" targe
 
 
 MAIL ENTRIES TO:<br>
-Hillary Elefson	
-161 Sewall Street	
+Hillary Elefson	<br>
+161 Sewall Street	<br>
 Manchester, NH 03103
