@@ -16,12 +16,12 @@ weight: 10
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
   <p>
-    <label >Your Name:<br> <input type="text" name="name" style="width:400px;"/></label>   
+    <label >Your Name:<br> <input type="text" name="name" required style="width:400px;"/></label>   
   </p>
   <p>
-    <label>Your Email: <br><input type="email" name="email" style="width:400px;"/></label>
+    <label>Your Email: <br><input type="email" name="email" required style="width:400px;"/></label>
   </p>
-    <label>Message: <br><textarea name="message" style="width:40em;height:10em;"></textarea></label>
+    <label>Message: <br><textarea name="message" required style="width:40em;height:10em;"></textarea></label>
   </p>
   <p>
     <button type="submit" style="background-color: limegreen; color: white; border-radius: 5px; width: 100px;">Send</button>
