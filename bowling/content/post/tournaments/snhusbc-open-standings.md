@@ -1,5 +1,5 @@
 ---
-title: snhusbc open standings
+title: Snhusbc Open Standings
 date: 2019-11-13T09:00:00.108Z
 draft: false
 categories: Tournaments
