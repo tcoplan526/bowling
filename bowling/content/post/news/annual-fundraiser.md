@@ -1,7 +1,7 @@
 ---
 title: Annual Fundraiser
 date: 2019-11-13T09:02:20.785Z
-draft: false
+draft: true
 categories: News
 author: SNHUSBC
 authorImage: bowling/static/snhusbc.jpg
