@@ -24,6 +24,6 @@ weight: 10
     <label>Message: <br><textarea name="message" style="width:40em;height:10em;"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" style="background-color: limegreen; color: white; border-radius: 5px; width: 100px;">Send</button>
   </p>
 </form>
