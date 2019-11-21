@@ -1,6 +1,6 @@
 ---
 title: Snhusbc Open Unofficial Results
-date: 2019-11-13T09:00:00.108Z
+date: 2019-11-20T09:00:00.108Z
 draft: false
 categories: Tournaments
 author: SNHUSBC
