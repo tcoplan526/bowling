@@ -16,7 +16,8 @@ weight: 9
 | Garrett Wilson | 300 | 9/24/2019 | Tuesday Mixed | Yankee Lanes Keene |
 | David Fish | 300 | 9/24/2019 | Tuesday Mixed | Yankee Lanes Keene |
 | Mike Rivard | 300 | 9/13/2019 | Friday Trios | Funspot |
-
+| Garrett Wilson | 844 | 11/12/2019 | Tuesday Mixed | Yankee Lanes Keene |
+| Garrett Wilson | 300 | 11/12/2019 | Tuesday Mixed | Yankee Lanes Keene |
 
 
 
