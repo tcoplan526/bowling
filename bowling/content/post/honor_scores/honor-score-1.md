@@ -18,6 +18,11 @@ weight: 9
 | Mike Rivard | 300 | 9/13/2019 | Friday Trios | Funspot |
 | Garrett Wilson | 844 | 11/12/2019 | Tuesday Mixed | Yankee Lanes Keene |
 | Garrett Wilson | 300 | 11/12/2019 | Tuesday Mixed | Yankee Lanes Keene |
+| Tyler Coplan | 300 | 11/12/2019 | Tuesday Mixed | Yankee Lanes Manchester|
+| Jack Batchelder | 300 | 11/27/2019 | Show Me the Money | Yankee Lanes Manchester |
+| Kevin Parsons | 300 | 12/4/2019 | Show Me the Money | Yankee Lanes Manchester |
+| Kevin Parsons | 815 | 12/4/2019 | Show Me the Money | Yankee Lanes Manchester |
+| Garrett Wilson | 825 | 12/10/2019 | Tuesday Mixed | Yankee Lanes Keene |
 
 
 

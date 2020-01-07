@@ -1,5 +1,5 @@
 ---
-title: Congratulations Garret!
+title: Congratulations Garrett!
 date: 2019-12-27T03:05:56.663Z
 draft: false
 categories: Scores
