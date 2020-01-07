@@ -7,4 +7,4 @@ image: fireworks.jpg
 weight: 9
 ---
 
-Congratulations Jack Batchelder for a perfect 300 game!  Bowled in Manchester on 11/27 in the Show me the Money league.
+Congratulations Jack Batchelder for a perfect 300 game!  Bowled in Manchester on 11/27/19 in the Show me the Money league.

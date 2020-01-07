@@ -7,4 +7,4 @@ image: fireworks.jpg
 weight: 9
 ---
 
-Congratulations Kevin Parsons!  On 12/4 he bowled a perfect game and an 815 series.  Great bowling!
+Congratulations Kevin Parsons!  On 12/4/19 he bowled a perfect game and an 815 series.  Great bowling!
