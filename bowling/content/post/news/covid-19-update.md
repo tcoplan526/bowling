@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Update
-date: 2020-03-17T12:56:40.785Z
+date: 2020-03-27T10:56:40.785Z
 draft: false
 categories: News
 author: SNHUSBC
