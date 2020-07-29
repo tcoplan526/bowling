@@ -1,6 +1,6 @@
 ---
 title: New Ball Drilling Specifications
-date: 2020-7-28T20:02:20.785Z
+date: 2020-07-28T20:02:20.785Z
 draft: false
 categories: News
 author: SNHUSBC
