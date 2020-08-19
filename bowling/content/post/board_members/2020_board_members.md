@@ -1,14 +1,11 @@
 ---
-title: 2020 Board Members
+title: 2020 - 2021 Board Members
 date: 2019-12-26T21:02:20.785Z
 draft: false
 categories: board_members
 image: flag.jpg
 weight: 10
 ---
-
-<h1 style="text-align:center;color:#3eb0ef;"> 2020 - 2021 Board Members </h1>
-
 | Name | Role |
 | ---- | ---- |
 | MaryEllen Thorne | President|

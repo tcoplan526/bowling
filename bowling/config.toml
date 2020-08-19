@@ -64,7 +64,7 @@ cover       = "pins.jpg"
   weight = 90
 
   [[menu.main]]
-  name = "Board Members"
+  name = "Board"
   url = "/categories/board_members"
   weight = 88
 
