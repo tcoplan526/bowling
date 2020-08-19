@@ -10,6 +10,7 @@ weight: 10
 <h1 style="text-align:center;color:#3eb0ef;"> 2020 - 2021 Board Members </h1>
 
 | Name | Role |
+| ---- | ---- |
 | MaryEllen Thorne | President|
 | Andrew Elefson | Vice President |
 | Lynn Kempf | Sergeant at Arms |
