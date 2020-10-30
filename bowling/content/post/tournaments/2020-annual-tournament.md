@@ -3,7 +3,7 @@ title: 2020 Annual Tournamnet
 date: 2020-10-30T15:05:16.108Z
 draft: false
 categories: Tournaments
-image: 2020_tournament.jpg
+image: 2020_tournament1.jpg
 weight: 9
 ---
 
