@@ -7,4 +7,4 @@ image: 2020_tournament.jpg
 weight: 9
 ---
 
-The 2020 annual tournmanet will be held the weekends of 11-14 & 11/15 and 11/21 & 11-22.  <a href = "index.pdf" target = "blank">Click here</a> to view the tournament form and rules.
+The 2020 annual tournmanet will be held the weekends of 11-14 & 11-15 and 11-21 & 11-22.  <a href = "index.pdf" target = "blank">Click here</a> to view the tournament form and rules.
