@@ -6,6 +6,4 @@ categories: Tournaments
 image: 2020_tournament1.jpg
 weight: 9
 ---
-Results after week 1
-    <iframe src="index.pdf#toolbar=0" width="90%" height="100%">
-    </iframe>
+<a href = "index.pdf" target = "blank">Click here</a> for results after week 1.
