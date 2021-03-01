@@ -9,7 +9,7 @@ weight: 9
 <h1 style="text-align:center;color:#3eb0ef;"> 2019-2020 Honor Scores </h1>
 
 | Name | Score | Date | League | 
-| ---- | ----- | ---- | ------ | 
+| ---- | ----- | ---- | ------ |
 | Jeff Landry Jr. | 300 | 09/02/2020 | Mixed Nuts | 
 | Charlie Unthank Jr. | 300 | 09/28/2020 | Monday Night Industrial | 
 | Jeff Landry Jr. | 813 | 09/23/2020 | Mixed Nuts | 
