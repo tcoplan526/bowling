@@ -3,7 +3,7 @@ title: 2021-2022 Calendar of Events
 date: 2021-12-14T15:05:16.108Z
 draft: false
 categories: Tournaments
-image: 2021_Tournament.png
+image: news.jpg
 weight: 9
 ---
 
