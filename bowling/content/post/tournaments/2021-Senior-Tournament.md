@@ -3,7 +3,7 @@ title: 2021 Senior Tournament
 date: 2021-12-21T15:05:16.108Z
 draft: false
 categories: Tournaments
-image: snhusbc.jpg
+image: news.jpg
 weight: 9
 ---
 
