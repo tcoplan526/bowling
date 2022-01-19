@@ -1,6 +1,6 @@
 ---
 title: 2021-2022 Annual Tournament Preliminary Results
-date: 2022-01-10T15:05:16.108Z
+date: 2022-01-18T15:05:16.108Z
 draft: false
 categories: Tournaments
 image: 2021_Tournament.png
