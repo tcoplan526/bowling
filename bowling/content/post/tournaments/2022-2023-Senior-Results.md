@@ -1,5 +1,5 @@
 ---
-title: 2022-2023 Annual Tournament Prize Fund
+title: 2022-2023 Senior Results
 date: 2023-01-01T07:54:16.108Z
 draft: false
 categories: Tournaments

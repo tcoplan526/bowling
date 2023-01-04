@@ -1,6 +1,6 @@
 ---
 title: 2022-2023 Annual Tournament Prize Fund
-date: 2022-11-25T07:57:16.108Z
+date: 2023-01-01T07:57:16.108Z
 draft: false
 categories: Tournaments
 image: 2022.jpg
