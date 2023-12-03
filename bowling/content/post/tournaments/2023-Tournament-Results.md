@@ -1,6 +1,6 @@
 ---
 title: 2023 Tournament Results
-date: 2023-12-3T07:57:16.108Z
+date: 2023-12-03T07:57:16.108Z
 draft: false
 categories: Tournaments
 image: news.jpg
