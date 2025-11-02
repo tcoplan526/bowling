@@ -1,6 +1,6 @@
 ---
 title: 2025 Annual Tournament
-date: 2024-11-01T07:57:16.108Z
+date: 2025-11-01T07:57:16.108Z
 draft: false
 categories: Tournaments
 image: news.jpg
